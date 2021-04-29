@@ -1,0 +1,39 @@
+.tekst
+{
+	height:300px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+.tekst1
+{
+	font-size:64px;
+}
+
+.przycisk
+{
+	text-align:center;
+}
+
+.przyciski
+{
+	text-align:center;
+}
+
+.wgore
+{
+	font-size:30px;
+	height:125px;
+	width:125px;
+	margin:4px;
+}
+
+.wgore:hover{cursor:pointer; background:green;}
+
+.komunikat
+{
+	font-size:30px;
+	text-align:center;
+	margin-top:10px;
+}
